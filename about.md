@@ -1,9 +1,15 @@
 ---
-layout: default
-title: "About Page"
+layout: page
+title: About
 ---
 
-# About the author
+<p class="message">
+  The Linux Enthusiast - Tech Articles & Documentation
+</p>
 
-Description: Linux tech professional
-Email: thelinuxenthusiast@hotmail.com
+# Contact Details
+
+If you have any suggestions or if you need to contact me:
+
+thelinuxenthusiast@hotmail.com
+
