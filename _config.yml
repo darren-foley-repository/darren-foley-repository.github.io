@@ -44,8 +44,8 @@ nav:
   - title: Blog
     url: /blog
 
-  - title: About
-    url: /about
-
   - title: Cheatsheets
     url: /cheatsheets
+
+  - title: About
+    url: /about
