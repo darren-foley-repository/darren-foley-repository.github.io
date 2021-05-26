@@ -3,6 +3,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+theme: jekyll-theme-minimal
+
 collections:
   authors:
     output: true
