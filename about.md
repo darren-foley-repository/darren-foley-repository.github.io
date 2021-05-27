@@ -3,6 +3,6 @@ layout: default
 title: About
 ---
 
-# About Page
-
-This is the about page
+<div class="main">
+<p>This is the about page</p>
+</div>
