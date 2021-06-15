@@ -1,0 +1,9 @@
+- name: Twitter
+  link: https://twitter.com/thelinuxenthus1
+  img: /assets/images/2021_Twitter_Logo_White.png
+- name: Instagram
+  link: https://www.instagram.com/dfol91/
+  img: /assets/images/Instagram_Glyph_Gradient_RGB.png
+- name: LinkedIn
+  link: https://www.linkedin.com/in/darren-foley-profile/
+  img: /assets/images/LI-In-Bug.png

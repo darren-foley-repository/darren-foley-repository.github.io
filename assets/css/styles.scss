@@ -94,3 +94,21 @@ li a:hover:not(.active) {
     bottom:0;
     left:0;
 } 
+
+.row {
+    float: center;
+    padding: 0px;
+}
+
+.footer {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#footer-group {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+}
+
