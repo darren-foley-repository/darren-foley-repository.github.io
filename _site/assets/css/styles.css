@@ -512,7 +512,8 @@ li a:hover, a:focus {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover:not(.active) {
-  background-color: #818181; }
+  background-color: none;
+  /*#818181*/ }
 
 .active {
   background-color: #04AA6D; }
