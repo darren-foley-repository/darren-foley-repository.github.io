@@ -6,15 +6,15 @@ plugins:
 theme: jekyll-theme-minimal
 
 collections:
-  authors:
+  topics:
     output: true
 
 defaults:
   - scope:
       path: ""
-      type: "authors"
+      type: "topics"
     values:
-      layout: "author"
+      layout: "topic"
   - scope:
       path: ""
       type: "posts"
